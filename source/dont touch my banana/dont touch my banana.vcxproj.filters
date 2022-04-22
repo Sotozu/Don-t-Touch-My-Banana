@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Program.cpp" />
+    <ClCompile Include="game.cpp" />
+    <ClCompile Include="InputManager.cpp" />
+    <ClCompile Include="PlayerMonkey.cpp" />
+    <ClCompile Include="Renderer.cpp" />
+    <ClCompile Include="Globals.cpp" />
+    <ClCompile Include="RopeVine.cpp" />
+    <ClCompile Include="RopeVineSegment.cpp" />
+    <ClCompile Include="Platform.cpp" />
+    <ClCompile Include="Banana.cpp" />
+    <ClCompile Include="BananaManager.cpp" />
+    <ClCompile Include="ProjectileManager.cpp" />
+    <ClCompile Include="AudioManager.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="game.h" />
+    <ClInclude Include="baseTypes.h" />
+    <ClInclude Include="Program.h" />
+    <ClInclude Include="InputManager.h" />
+    <ClInclude Include="PlayerMonkey.h" />
+    <ClInclude Include="Renderer.h" />
+    <ClInclude Include="Globals.h" />
+    <ClInclude Include="RopeVine.h" />
+    <ClInclude Include="RopeVineSegment.h" />
+    <ClInclude Include="Platform.h" />
+    <ClInclude Include="Banana.h" />
+    <ClInclude Include="BananaManager.h" />
+    <ClInclude Include="ProjectileManager.h" />
+    <ClInclude Include="AudioManager.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Assets">
+      <UniqueIdentifier>{0b8d0a22-fa31-4894-a129-b1badc74b2e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Assets\Images">
+      <UniqueIdentifier>{350bf65a-8189-4468-9f76-af46e5cb9676}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Assets\Sounds">
+      <UniqueIdentifier>{bcb9385d-fed4-447b-a820-f169df20f5be}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Content\monki.png">
+      <Filter>Assets\Images</Filter>
+    </Image>
+    <Image Include="Content\Wood.png">
+      <Filter>Assets\Images</Filter>
+    </Image>
+    <Image Include="Content\Banana.png">
+      <Filter>Assets\Images</Filter>
+    </Image>
+    <Image Include="Content\pup.png">
+      <Filter>Assets\Images</Filter>
+    </Image>
+    <Image Include="Content\Vine.png">
+      <Filter>Assets\Images</Filter>
+    </Image>
+    <Image Include="Content\vine2.png">
+      <Filter>Assets\Images</Filter>
+    </Image>
+    <Image Include="Content\monkey.png">
+      <Filter>Assets\Images</Filter>
+    </Image>
+    <Image Include="Content\shit.png">
+      <Filter>Assets\Images</Filter>
+    </Image>
+    <Image Include="Content\intro.png">
+      <Filter>Assets\Images</Filter>
+    </Image>
+    <Image Include="Content\win_p1.png">
+      <Filter>Assets\Images</Filter>
+    </Image>
+    <Image Include="Content\win_p2.png">
+      <Filter>Assets\Images</Filter>
+    </Image>
+    <Image Include="Content\score.png">
+      <Filter>Assets\Images</Filter>
+    </Image>
+    <Image Include="Content\monkey2.png">
+      <Filter>Assets\Images</Filter>
+    </Image>
+    <Image Include="Content\score2.png">
+      <Filter>Assets\Images</Filter>
+    </Image>
+    <Image Include="Content\monkeyscore2.png">
+      <Filter>Assets\Images</Filter>
+    </Image>
+    <Image Include="Content\monkeyscore.png">
+      <Filter>Assets\Images</Filter>
+    </Image>
+    <Image Include="Content\loading.png">
+      <Filter>Assets\Images</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="Content\collectBanana.mp3">
+      <Filter>Assets\Sounds</Filter>
+    </Media>
+    <Media Include="Content\flingPoop.mp3">
+      <Filter>Assets\Sounds</Filter>
+    </Media>
+    <Media Include="Content\grabVine.mp3">
+      <Filter>Assets\Sounds</Filter>
+    </Media>
+    <Media Include="Content\jump.mp3">
+      <Filter>Assets\Sounds</Filter>
+    </Media>
+    <Media Include="Content\Theme_Music.mp3">
+      <Filter>Assets\Sounds</Filter>
+    </Media>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,8 @@
+A document that details the class you're most proud of (Due December 6)
+Talk about the functionality of the class and the decision making regarding the interface
+
+I worked on making the traversable environment by making both a "RopeVineSegment" class and a "Platform" class.
+I consider it fair to include both of them in this submission because they are fundamentally similar.
+These traversable environment (vines/platforms) these classes make are modular. They can be increased in size and length
+depending on the constructor parameters. They also re-use a small texture (memory) to create dynamicly sized objects.
+

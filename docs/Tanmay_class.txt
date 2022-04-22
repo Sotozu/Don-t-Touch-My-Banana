@@ -1,0 +1,3 @@
+The class that I'm proud of is 'ProjectileManager'. It creates and stores projectiles for the player to throw. It gets a random sprite everytime a new projectile is thrown depending on the player. It also checks for collision of each projectile and Draws it on-screen.
+
+I'm proud of it as it's written in a very clean way and works appropriately even if you add any number of more player objects.

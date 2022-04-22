@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\FIEA_Dev\PC_Game\depot\Cohort18-Private\PC Game\Don't Touch My Banana\build\bin\DebugWin32\dont touch my banana.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\FIEA_Dev\PC_Game\depot\Cohort18-Private\PC Game\Don't Touch My Banana\source\dont touch my banana\Content\Banana.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\FIEA_Dev\PC_Game\depot\Cohort18-Private\PC Game\Don't Touch My Banana\source\dont touch my banana\Content\intro.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\FIEA_Dev\PC_Game\depot\Cohort18-Private\PC Game\Don't Touch My Banana\source\dont touch my banana\Content\loading.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\FIEA_Dev\PC_Game\depot\Cohort18-Private\PC Game\Don't Touch My Banana\source\dont touch my banana\Content\monkey.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\FIEA_Dev\PC_Game\depot\Cohort18-Private\PC Game\Don't Touch My Banana\source\dont touch my banana\Content\monkey2.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\FIEA_Dev\PC_Game\depot\Cohort18-Private\PC Game\Don't Touch My Banana\source\dont touch my banana\Content\monkeyscore.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\FIEA_Dev\PC_Game\depot\Cohort18-Private\PC Game\Don't Touch My Banana\source\dont touch my banana\Content\monkeyscore2.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\FIEA_Dev\PC_Game\depot\Cohort18-Private\PC Game\Don't Touch My Banana\source\dont touch my banana\Content\monki.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\FIEA_Dev\PC_Game\depot\Cohort18-Private\PC Game\Don't Touch My Banana\source\dont touch my banana\Content\pup.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\FIEA_Dev\PC_Game\depot\Cohort18-Private\PC Game\Don't Touch My Banana\source\dont touch my banana\Content\score.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\FIEA_Dev\PC_Game\depot\Cohort18-Private\PC Game\Don't Touch My Banana\source\dont touch my banana\Content\score2.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\FIEA_Dev\PC_Game\depot\Cohort18-Private\PC Game\Don't Touch My Banana\source\dont touch my banana\Content\shit.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\FIEA_Dev\PC_Game\depot\Cohort18-Private\PC Game\Don't Touch My Banana\source\dont touch my banana\Content\Vine.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\FIEA_Dev\PC_Game\depot\Cohort18-Private\PC Game\Don't Touch My Banana\source\dont touch my banana\Content\vine2.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\FIEA_Dev\PC_Game\depot\Cohort18-Private\PC Game\Don't Touch My Banana\source\dont touch my banana\Content\win_p1.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\FIEA_Dev\PC_Game\depot\Cohort18-Private\PC Game\Don't Touch My Banana\source\dont touch my banana\Content\win_p2.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\FIEA_Dev\PC_Game\depot\Cohort18-Private\PC Game\Don't Touch My Banana\source\dont touch my banana\Content\Wood.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\FIEA_Dev\PC_Game\depot\Cohort18-Private\PC Game\Don't Touch My Banana\source\dont touch my banana\Content\collectBanana.mp3</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\FIEA_Dev\PC_Game\depot\Cohort18-Private\PC Game\Don't Touch My Banana\source\dont touch my banana\Content\flingPoop.mp3</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\FIEA_Dev\PC_Game\depot\Cohort18-Private\PC Game\Don't Touch My Banana\source\dont touch my banana\Content\grabVine.mp3</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\FIEA_Dev\PC_Game\depot\Cohort18-Private\PC Game\Don't Touch My Banana\source\dont touch my banana\Content\jump.mp3</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\FIEA_Dev\PC_Game\depot\Cohort18-Private\PC Game\Don't Touch My Banana\source\dont touch my banana\Content\Theme_Music.mp3</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
